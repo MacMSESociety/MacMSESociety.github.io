@@ -33806,10 +33806,8 @@ m=i.a.d
 return A.a0W(B.H,A.o5(!1,A.aey(l,r,A.c([A.bG(l,new A.zI(i.ch,i.r,i.e,i.d,m,l),B.p,l,l,l,l,n/1.5,l,l,l,l,o/1.5)],p),B.ao,new A.aq(q,0,q,0),new A.cS(s,new A.cE(g,8,B.X)),h),j),l,k)},
 $S:119}
 A.a7x.prototype={
-$1(a){var s,r,q=null;++a
-s=this.a.d
-r=s[1][6]
-return new A.fo(a,B.zM,q,1,new A.vg(A.bG(q,A.hu(A.c([A.ci(s[a][6],q,q,q,q,q,q),A.aa2(q,500,new A.hL(r),500)],t.p),B.a5,B.a1,B.a8),B.p,q,q,q,q,q,q,q,q,q,q),q),q)},
+$1(a){var s=null;++a
+return new A.fo(a,B.zM,s,1,new A.vg(A.bG(s,A.hu(A.c([A.ci(this.a.d[a][6],s,s,s,s,s,s),A.aa2(s,500,new A.hL("https://github.com/RayLyu-Mac/Matls_Coop_HallofFame/blob/main/ast/profile/r.jpg?raw=true"),500)],t.p),B.a5,B.a1,B.a8),B.p,s,s,s,s,s,s,s,s,s,s),s),s)},
 $S:263}
 A.rR.prototype={
 ad(){return new A.IE(B.j)}}
