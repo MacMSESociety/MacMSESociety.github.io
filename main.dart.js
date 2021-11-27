@@ -33952,8 +33952,8 @@ q.push(A.j5(n.a.c[p][5]))
 q.push(A.j5(n.a.c[p][4]))}},
 aT(){this.m3()
 this.bn()},
-F(a,b){var s=null,r=this.a.c[1][6]
-return A.Xz(A.acs(s,A.ci("A",s,s,s,s,s,s)),A.hv(A.c([A.ci(r,s,s,s,s,s,s),A.SO(s,500,new A.fL(r),500)],t.p),B.a5,B.a1,B.a8))}}
+F(a,b){var s=null
+return A.Xz(A.acs(s,A.ci("A",s,s,s,s,s,s)),A.hv(A.c([A.ci(this.a.c[1][6],s,s,s,s,s,s),A.SO(s,500,new A.fL("https://github.com/RayLyu-Mac/Matls_Coop_HallofFame/blob/main/ast/profile/r.jpg?raw=true"),500)],t.p),B.a5,B.a1,B.a8))}}
 A.lX.prototype={
 ad(){return new A.JW(B.j)},
 gaO(a){return this.d}}
