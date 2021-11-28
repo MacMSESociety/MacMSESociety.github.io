@@ -33572,23 +33572,20 @@ r.fr=s
 r.dx=1.6*s},
 aU(){this.bp()
 this.tb(0)},
-F(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null,d=f.e,c=t.p
-if(d.length!==0){s=f.f
-r=A.c5(f.a.c+A.hy(s,"[","]"),e,e,e,e,e,e)
-r=A.abT(A.c([A.Ss(e,B.kz,24,new A.a75(f,b),e)],c),r)
-c=f.fr
-q=f.dx
-p=q/40
-o=c/40
-n=J.acR(2,t.l7)
-for(m=f.y,l=0;l<2;++l){k=$.mT().h(0,"Blue")
-j=d[l][0]
-i="Company: "+A.d(s[l])
-h=d[l]
-g=h[1]
-h=h[9]
-n[l]=new A.io(l,B.zJ,e,1,new A.v9(new A.kd(k,g,i,m[0],h,j,["Email"],["lyuz"],"g1",0,0,e),e),e)}d=A.ae8(n,!0,!0,!0)
-return A.Xc(r,new A.BP(new A.a_5(2,40,40,c*3.4/q),d,new A.aq(p,o,p,o),B.l,!1,e,!0,B.jk,!1,e,2,B.ay,B.vp,e,B.an,e))}else return A.bG(e,A.hp(A.c([A.c5(A.hy(f.d,"[","]"),e,e,e,e,e,e),new A.qU(e,e,e,e,e,e,e),A.c5("ZZZ"+A.hy(d,"[","]")+"QQQ\n"+A.hy(f.d,"[","]"),e,e,e,e,e,e)],c),B.a5,B.a1,B.a8),B.p,B.m,e,e,e,500,e,e,e,e,500)}}
+F(a,b){var s,r,q,p,o,n,m,l,k,j=this,i="https://github.com/RayLyu-Mac/Matls_Coop_HallofFame/blob/main/ast/profile/r.jpg?raw=true",h=null,g=j.y,f=g[0],e=j.e,d=t.p
+if(e.length!==0){g=A.c5(j.a.c+String(i===f)+A.hy(g,"[","]"),h,h,h,h,h,h)
+g=A.abT(A.c([A.Ss(h,B.kz,24,new A.a75(j,b),h)],d),g)
+d=j.fr
+f=j.dx
+s=f/40
+r=d/40
+q=J.acR(2,t.l7)
+for(p=j.f,o=0;o<2;++o){n=$.mT().h(0,"Blue")
+m=e[o][0]
+l="Company: "+A.d(p[o])
+k=e[o]
+q[o]=new A.io(o,B.zJ,h,1,new A.v9(new A.kd(n,k[1],l,i,k[9],m,["Email"],["lyuz"],"g1",0,0,h),h),h)}e=A.ae8(q,!0,!0,!0)
+return A.Xc(g,new A.BP(new A.a_5(2,40,40,d*3.4/f),e,new A.aq(s,r,s,r),B.l,!1,h,!0,B.jk,!1,h,2,B.ay,B.vp,h,B.an,h))}else return A.bG(h,A.hp(A.c([A.c5(A.hy(j.d,"[","]"),h,h,h,h,h,h),new A.qU(h,h,h,h,h,h,h),A.c5("ZZZ"+A.hy(e,"[","]")+"QQQ\n"+A.hy(j.d,"[","]"),h,h,h,h,h,h)],d),B.a5,B.a1,B.a8),B.p,B.m,h,h,h,500,h,h,h,h,500)}}
 A.a76.prototype={
 $0(){var s,r,q,p,o=this.a,n=B.cO.cH(this.b)
 o.d=n
