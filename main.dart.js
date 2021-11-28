@@ -32985,7 +32985,7 @@ return A.ak($async$ov,r)},
 aV(){this.ov()
 this.bo()},
 G(a,b){var s=null
-return A.adi(A.b([A.ab5("ast/9.png","Explore Biomaterials","growing and offers many opportunities for Materials Engineers to put their problem solving skills to work to improve materials used in a range of health applications.",A.ajZ(!1,A.c3("Go Bio!",s,s,s,s,s,s),B.p,s,s,s,this.ga2p(),s),"Biomaterials"),new A.q5("Biomaterial",this.d,s)],t.p),this.e,B.l)}}
+return A.adi(A.b([A.ab5("ast/9.png","Explore Biomaterials","AAAA growing and offers many opportunities for Materials Engineers to put their problem solving skills to work to improve materials used in a range of health applications.",A.ajZ(!1,A.c3("Go Bio!",s,s,s,s,s,s),B.p,s,s,s,this.ga2p(),s),"Biomaterials"),new A.q5("Biomaterial",this.d,s)],t.p),this.e,B.l)}}
 A.a6G.prototype={
 $0(){this.a.d=B.d.eh(B.cW.c2(this.b),1)},
 $S:0}
