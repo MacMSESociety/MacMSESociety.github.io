@@ -32940,7 +32940,7 @@ s=2
 return A.aH($.mM().ta("ast/csv/bio.csv"),$async$t8)
 case 2:p=o.cH(c)
 q.d=p
-q.f=A.b(A.hq(p[0],"[","]").split("*"),t.s)
+q.f=A.b(A.hq(p,"[","]").split("*"),t.s)
 return A.aj(null,r)}})
 return A.ak($async$t8,r)},
 ap(){var s,r=this
