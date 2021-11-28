@@ -33572,17 +33572,22 @@ r.fr=s
 r.dx=1.6*s},
 aU(){this.bp()
 this.tb(0)},
-F(a,b){var s,r,q,p,o,n,m=this,l=null,k=m.d,j=t.p
-if(k.length!==0){k=A.c5(m.a.c,l,l,l,l,l,l)
-k=A.abT(A.c([A.Ss(l,B.kz,24,new A.a75(m,b),l)],j),k)
-j=m.fr
-s=m.dx
-r=s/40
-q=j/40
-p=J.acR(2,t.l7)
-for(o=0;o<2;++o)p[o]=new A.im(o,B.zJ,l,1,new A.v9(new A.kd($.mT().h(0,"Blue"),"Ray","qqqq","https://github.com/RayLyu-Mac/Matls_Coop_HallofFame/blob/main/ast/profile/r.jpg?raw=true","Drug","2021",["Email"],["lyuz"],"g1",0,0,l),l),l)
-n=A.ae8(p,!0,!0,!0)
-return A.Xc(k,new A.BP(new A.a_5(2,40,40,j*3.4/s),n,new A.aq(r,q,r,q),B.l,!1,l,!0,B.jk,!1,l,2,B.ay,B.vp,l,B.an,l))}else return A.bG(l,A.hp(A.c([A.c5(A.iL(k,"[","]"),l,l,l,l,l,l),new A.qU(l,l,l,l,l,l,l),A.c5("ZZZ"+A.iL(m.e,"[","]")+"QQQ\n"+A.iL(m.d,"[","]"),l,l,l,l,l,l)],j),B.a5,B.a1,B.a8),B.p,B.m,l,l,l,500,l,l,l,l,500)}}
+F(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null,d=f.e,c=t.p
+if(d.length!==0){s=A.c5(f.a.c,e,e,e,e,e,e)
+s=A.abT(A.c([A.Ss(e,B.kz,24,new A.a75(f,b),e)],c),s)
+c=f.fr
+r=f.dx
+q=r/40
+p=c/40
+o=J.acR(2,t.l7)
+for(n=f.f,m=f.y,l=0;l<2;++l){k=$.mT().h(0,"Blue")
+j=d[l][0]
+i="Company: "+A.d(n[l])
+h=d[l]
+g=h[1]
+h=h[9]
+o[l]=new A.im(l,B.zJ,e,1,new A.v9(new A.kd(k,g,i,m[0],h,j,["Email"],["lyuz"],"g1",0,0,e),e),e)}d=A.ae8(o,!0,!0,!0)
+return A.Xc(s,new A.BP(new A.a_5(2,40,40,c*3.4/r),d,new A.aq(q,p,q,p),B.l,!1,e,!0,B.jk,!1,e,2,B.ay,B.vp,e,B.an,e))}else return A.bG(e,A.hp(A.c([A.c5(A.iL(f.d,"[","]"),e,e,e,e,e,e),new A.qU(e,e,e,e,e,e,e),A.c5("ZZZ"+A.iL(d,"[","]")+"QQQ\n"+A.iL(f.d,"[","]"),e,e,e,e,e,e)],c),B.a5,B.a1,B.a8),B.p,B.m,e,e,e,500,e,e,e,e,500)}}
 A.a76.prototype={
 $0(){var s,r,q,p,o=this.a,n=B.cO.cH(this.b)
 o.d=n
@@ -33797,19 +33802,15 @@ a0=d.d
 a0.toString
 a0="  "+a0+"  "
 a1=a3.e
-a1=A.fR(A.c([a,A.c5(a0,a4,a4,a4,A.cU(a4,a4,a4,a4,a4,a4,a4,a4,d.Q,a4,a4,a1/20,a4,a4,a4,a4,!0,a4,a4,a4,a4,a4,a4,a4,a4),a4,a4),A.hu(B.kv,a4,a4)],c),B.a5,B.a1,B.a8)
-d=a3.e/30
-a0=A.cI(a4,d,a4)
-a=a3.a
-d=A.c([a1,a0,A.c5("Joined Hall of Fame @ "+a.x+"\n"+a.e,a4,a4,a4,A.cU(a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,d,a4,a4,a4,a4,!0,a4,a4,a4,a4,a4,a4,a4,a4),a4,a4)],c)
-for(a2=0;a=a3.a.y,a2<a.length;++a2){a=A.d(a[a2])+": "+A.d(a3.a.z[a2])
+a1=A.c([A.fR(A.c([a,A.c5(a0,a4,a4,a4,A.cU(a4,a4,a4,a4,a4,a4,a4,a4,d.Q,a4,a4,a1/20,a4,a4,a4,a4,!0,a4,a4,a4,a4,a4,a4,a4,a4),a4,a4),A.hu(B.kv,a4,a4)],c),B.a5,B.a1,B.a8),A.cI(a4,a3.e/30,a4),A.c5("Joined Hall of Fame @ "+A.d(a3.a.x)+"\n"+a3.a.e,a4,a4,a4,A.cU(a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a3.e/30,a4,a4,a4,a4,!0,a4,a4,a4,a4,a4,a4,a4,a4),a4,a4)],c)
+for(a2=0;d=a3.a.y,a2<d.length;++a2){d=A.d(d[a2])+": "+A.d(a3.a.z[a2])
+a=a3.e
+a1.push(A.c5(d,a4,a4,a4,new A.r(!0,a4,a4,a4,a4,a4,a/30,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4),a4,a4))}a1.push(A.cI(a4,a3.e/45,a4))
+d=A.iq(15)
+a=A.qI(A.a5(102,0,0,0),5)
 a0=a3.e
-d.push(A.c5(a,a4,a4,a4,new A.r(!0,a4,a4,a4,a4,a4,a0/30,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4),a4,a4))}d.push(A.cI(a4,a3.e/45,a4))
-a=A.iq(15)
-a0=A.qI(A.a5(102,0,0,0),5)
-a1=a3.e
-d.push(A.WZ(B.O,A.bG(a4,A.c5("Coop Hall Of Fame",a4,a4,a4,A.cU(a4,a4,A.a5(102,0,0,0),a4,a4,a4,a4,a4,"s2",a4,a4,a1/25,a4,B.ak,a4,a4,!0,a4,a4,a4,a4,a4,a4,a4,a4),a4,a4),B.p,a4,a4,new A.bT(a4,a4,a0,a,a4,a4,B.M),a4,a4,a4,new A.aq(10,10,10,10),a4,a4,a4),new A.qk(0.9444444444444444,t.ME)))
-m=A.ae1(B.O,h,A.c([A.fR(A.c([new A.zp(e,a4),b,A.hp(d,B.c8,B.a1,B.a8)],c),B.a5,B.a1,B.a8)],c),B.an,new A.aq(g,f,g,f),new A.cS(i,new A.cC(k,8,B.X)),m)
+a1.push(A.WZ(B.O,A.bG(a4,A.c5("Coop Hall Of Fame",a4,a4,a4,A.cU(a4,a4,A.a5(102,0,0,0),a4,a4,a4,a4,a4,"s2",a4,a4,a0/25,a4,B.ak,a4,a4,!0,a4,a4,a4,a4,a4,a4,a4,a4),a4,a4),B.p,a4,a4,new A.bT(a4,a4,a,d,a4,a4,B.M),a4,a4,a4,new A.aq(10,10,10,10),a4,a4,a4),new A.qk(0.9444444444444444,t.ME)))
+m=A.ae1(B.O,h,A.c([A.fR(A.c([new A.zp(e,a4),b,A.hp(a1,B.c8,B.a1,B.a8)],c),B.a5,B.a1,B.a8)],c),B.an,new A.aq(g,f,g,f),new A.cS(i,new A.cC(k,8,B.X)),m)
 k=a3.e
 return A.bG(a4,A.fR(A.c([o,s,n,A.bG(a4,A.hp(A.c([a8,l,j,new A.qO(m,"More Info",B.Af,a3.a.c,k/50,!0,a4)],c),B.c8,B.eR,B.a8),B.p,a4,a4,a4,a4,a4,a4,a4,a4,a4,p/5)],c),B.a5,B.eR,B.a8),B.p,a4,a4,new A.bT(a4,a5,r,q,a4,a4,B.M),a4,a4,new A.aq(a6,a7,a6,a7),a4,a4,a4,a4)}}
 A.zx.prototype={
