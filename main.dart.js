@@ -33552,8 +33552,8 @@ this.tg(0)},
 F(a,b){var s,r,q,p=this,o="https://github.com/RayLyu-Mac/Matls_Coop_HallofFame/blob/main/ast/profile/r.jpg?raw=true",n=null,m=p.y,l=m[0],k=p.d,j=t.p,i=p.e
 if(k.length!==0){k=A.bQ(p.a.c,n,n,n,n,n,n)
 k=A.abY(A.c([A.Sv(n,B.kB,24,new A.a74(p,b),n)],j),k)
-s=A.aab(J.c1(m[0]))
-r=A.aab(i[0][9])
+s=A.aab("A"+J.c1(m[0])+"B")
+r=A.aab(B.c.G("A",i[0][9])+"B")
 m=A.bQ(A.en(J.J(m[0]).a,n),n,n,n,n,n,n)
 q=A.a9t(n,100,new A.fL(J.c1(i[0][9]),1),100)
 l=A.bQ(String(l===o),n,n,n,n,n,n)
@@ -40564,7 +40564,7 @@ r.d=s
 A.b(s,"_controller").ad(0,r.gwJ())},
 bs(a){var s,r,q=this,p="_controller"
 q.bO(a)
-if(q.a.c!=a.c||!1){s=q.gwJ()
+if(q.a.c!==a.c||!1){s=q.gwJ()
 A.b(q.d,p).a1(0,s)
 r=A.i2(null,null,q.a.c)
 r=A.af3(r)
