@@ -32894,7 +32894,7 @@ return A.ak($async$os,r)},
 aV(){this.os()
 this.bo()},
 G(a,b){var s=null
-return A.ad6(A.b([A.aaU("ast/9.png","Explore Biomaterials","MMM growing and offers many opportunities for Materials Engineers to put their problem solving skills to work to improve materials used in a range of health applications.",A.ajL(!1,A.bW("Go Bio!",s,s,s,s,s,s),B.o,s,s,s,this.ga2c(),s),"Biomaterials"),new A.q2("Biomaterial",this.d,s)],t.p),this.e,B.l)}}
+return A.ad6(A.b([A.aaU("ast/9.png","Explore Biomaterials","QQQ growing and offers many opportunities for Materials Engineers to put their problem solving skills to work to improve materials used in a range of health applications.",A.ajL(!1,A.bW("Go Bio!",s,s,s,s,s,s),B.o,s,s,s,this.ga2c(),s),"Biomaterials"),new A.q2("Biomaterial",this.d,s)],t.p),this.e,B.l)}}
 A.a6v.prototype={
 $0(){this.a.d=B.d.eh(B.cP.cH(this.b),1)},
 $S:0}
@@ -33020,7 +33020,7 @@ G(a,b){var s,r,q,p,o=this,n=null,m=t.p
 if(o.d.length!==0){s=A.bW(o.a.c,n,n,n,n,n,n)
 s=A.abB(A.b([A.Sg(n,B.kz,24,new A.a6S(o,b),n)],m),s)
 m=A.b([],m)
-for(r=o.r,q=0;p=o.d,q<p.length;++q)m.push(A.bW("\n---"+r[q]+"\n---"+A.nC(p[q],"[","]"),n,n,n,n,n,n))
+for(r=o.r,q=0;p=o.d,q<p.length;++q)m.push(A.bW("\n------\n---"+r[q]+"\n---"+A.nC(p[q],"[","]"),n,n,n,n,n,n))
 return A.X1(s,A.by(n,A.fk(m,B.a2,B.Y,B.a6),B.o,n,n,n,n,n,n,n,n,n,n))}else return A.by(n,A.fk(A.b([new A.qM(n,n,n,n,n,n,n),A.bW("Wait",n,n,n,n,n,n)],m),B.a2,B.Y,B.a6),B.o,n,n,n,n,500,n,n,n,n,500)}}
 A.a6T.prototype={
 $0(){var s,r,q,p,o,n,m
