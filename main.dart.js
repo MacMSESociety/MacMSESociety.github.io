@@ -33580,9 +33580,9 @@ s=m.dx
 r=s/40
 q=j/40
 p=J.acR(2,t.l7)
-for(o=0;o<2;++o)p[o]=new A.im(o,B.zJ,l,1,new A.v9(new A.kd($.mT().h(0,"Blue"),"Name","Company: Apotex","https://github.com/RayLyu-Mac/Matls_Coop_HallofFame/blob/main/ast/profile/r.jpg?raw=true","Drug","1999",["Email"],["lyuz"],"g1",0,0,l),l),l)
-n=A.ae8(p,!0,!0,!0)
-return A.Xc(k,new A.BP(new A.a_5(2,40,40,j*3.4/s),n,new A.aq(r,q,r,q),B.l,!1,l,!0,B.jk,!1,l,2,B.ay,B.vp,l,B.an,l))}else return A.bG(l,A.hp(A.c([A.c5(A.iL(m.d,"[","]"),l,l,l,l,l,l),new A.qU(l,l,l,l,l,l,l),A.c5("ZZZ"+A.iL(k,"[","]")+"QQQ\n"+A.iL(m.d,"[","]"),l,l,l,l,l,l)],j),B.a5,B.a1,B.a8),B.p,B.m,l,l,l,500,l,l,l,l,500)}}
+for(o=m.y,n=0;n<2;++n)p[n]=new A.im(n,B.zJ,l,1,new A.v9(new A.kd($.mT().h(0,"Blue"),"Name","Company: Apotex",o[n],"Drug","1999",["Email"],["lyuz"],"g1",0,0,l),l),l)
+o=A.ae8(p,!0,!0,!0)
+return A.Xc(k,new A.BP(new A.a_5(2,40,40,j*3.4/s),o,new A.aq(r,q,r,q),B.l,!1,l,!0,B.jk,!1,l,2,B.ay,B.vp,l,B.an,l))}else return A.bG(l,A.hp(A.c([A.c5(A.iL(m.d,"[","]"),l,l,l,l,l,l),new A.qU(l,l,l,l,l,l,l),A.c5("ZZZ"+A.iL(k,"[","]")+"QQQ\n"+A.iL(m.d,"[","]"),l,l,l,l,l,l)],j),B.a5,B.a1,B.a8),B.p,B.m,l,l,l,500,l,l,l,l,500)}}
 A.a76.prototype={
 $0(){var s,r,q,p,o=this.a,n=B.cO.cH(this.b)
 o.d=n
