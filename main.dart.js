@@ -6968,8 +6968,9 @@ _.e=_.d=0
 _.a=null
 _.b=a
 _.c=null},
-qg:function qg(a,b){this.c=a
-this.a=b},
+qg:function qg(a,b,c){this.c=a
+this.d=b
+this.a=c},
 Ny:function Ny(a,b,c,d,e,f,g,h,i,j,k,l,m,n){var _=this
 _.d=a
 _.e=b
@@ -33558,7 +33559,7 @@ while(true)switch(s){case 0:q.e.fS(500,B.e5,B.ko)
 return A.al(null,r)}})
 return A.am($async$ku,r)},
 F(a,b){var s=null
-return A.adO(A.c([A.agN("ast/9.png","Explore Biomaterials",u.D,A.acQ(!1,A.ch("Go Bio!",s,s,s,s,s,s),B.o,s,s,s,this.gzx(),s),"true","Biomaterials"),new A.qg("Biomaterial",s)],t.p),this.e,B.l)}}
+return A.adO(A.c([A.agN("ast/9.png","Explore Biomaterials",u.D,A.acQ(!1,A.ch("Go Bio!",s,s,s,s,s,s),B.o,s,s,s,this.gzx(),s),"true","Biomaterials"),new A.qg("Biomaterial","ast/csv/bio.csv",s)],t.p),this.e,B.l)}}
 A.qR.prototype={
 an(){return new A.GO(B.k)}}
 A.GO.prototype={
@@ -33694,7 +33695,7 @@ th(a){var s=0,r=A.an(t.z),q=this,p
 var $async$th=A.aj(function(b,c){if(b===1)return A.ak(c,r)
 while(true)switch(s){case 0:p=A
 s=2
-return A.aP($.NS().a2K("ast/csv/bio.csv"),$async$th)
+return A.aP($.NS().a2K(q.a.d),$async$th)
 case 2:q.az(new p.a7o(q,c))
 return A.al(null,r)}})
 return A.am($async$th,r)},
@@ -33893,7 +33894,7 @@ while(true)switch(s){case 0:q.e.fS(500,B.e5,B.ko)
 return A.al(null,r)}})
 return A.am($async$ku,r)},
 F(a,b){var s=null
-return A.adO(A.c([A.agN("ast/9.png","Explore Biomaterials",u.D,A.acQ(!1,A.ch("Go Bio!",s,s,s,s,s,s),B.o,s,s,s,this.gzx(),s),s,"Biomaterials"),new A.qg("Manufacturing",s)],t.p),this.e,B.l)}}
+return A.adO(A.c([A.agN("ast/9.png","Explore Biomaterials",u.D,A.acQ(!1,A.ch("Go Bio!",s,s,s,s,s,s),B.o,s,s,s,this.gzx(),s),s,"Biomaterials"),new A.qg("Manufacturing","ast/csv/manu.csv",s)],t.p),this.e,B.l)}}
 A.ki.prototype={
 an(){return new A.JZ(B.k)},
 gaO(a){return this.d}}
