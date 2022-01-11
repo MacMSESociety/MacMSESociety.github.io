@@ -33831,7 +33831,7 @@ o=p/40
 n=q/40
 m=b9.length
 l=J.adC(m,t.l7)
-for(k=b7.z,j=b7.db,i=b7.Q,h=t.s,g=b7.r,f=b7.ch,e=0;e<m;++e){d=J.b2(b9[e][5])
+for(k=b7.ch,j=b7.db,i=b7.Q,h=t.s,g=b7.r,f=b7.z,e=0;e<m;++e){d=J.b2(b9[e][5])
 c=J.b2(b9[e][6])
 b=J.b2(b9[e][13])
 a=$.qs().h(0,j[e])
@@ -33842,8 +33842,8 @@ a3=A.c(J.b2(b9[e][3]).split("+"),h)
 J.b2(b9[e][0])
 a4="Company: "+A.d(g[e])
 a5=J.b2(b9[e][1])
-a6=f[e]
-a7=k[e]
+a6=k[e]
+a7=f[e]
 a8=A.lh(b8,b8,new A.ht(a7),1)
 a9=$.qs().h(0,j[e])
 a9.toString
