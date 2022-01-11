@@ -33783,8 +33783,8 @@ F(a,b){var s=null,r=A.adv(B.bG,this.e/3.7*1.81,new A.ht("ast/frame.png"),this.d/
 q.toString
 return A.bo(s,r,B.o,s,s,new A.bY(s,A.lh(s,B.jO,new A.iV(q),0.8),s,s,s,s,B.N),s,s,s,s,s,s,s)}}
 A.mZ.prototype={
-aj(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f="Email+person+LinkedIn+Facebook",e="jeremywilsonudd@gmail.com+person+https://www.linkedin.com/in/jeremy-w-711002134/+https://www.facebook.com/jeremywilsonudd",d="Manufacutirng+Pharmeutical",c="https://github.com/RayLyu-Mac/Matls_Coop_HallofFame/blob/main/ast/profile/r.jpg?raw=true",b="1. Practice good manufacturing process in cleaning validation\n2. Created python code for documentation management\n3. Push the digitization process in maufacturing field",a=t.X6,a0=A.c([],a),a1=A.c([["11/21/2021","Ray Lyu",f,e,"Apotex","3rd","12 month",d,c,"Phar","g1","Indigo","ZXC",b]],a)
-a=A.c([["11/21/2021","Ray Lyu",f,e,"Apotex","3rd","12 month",d,c,"Phar","g1","Indigo","ZXC",b]],a)
+aj(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=t.X6,e=A.c([],f),d=A.c([["11/21/2021","Ray Lyu","Email+person+LinkedIn+Facebook","jeremywilsonudd@gmail.com+person+https://www.linkedin.com/in/jeremy-w-711002134/+https://www.facebook.com/jeremywilsonudd","Apotex","3rd","12 month","Manufacutirng+Pharmeutical","https://github.com/RayLyu-Mac/Matls_Coop_HallofFame/blob/main/ast/profile/r.jpg?raw=true","Phar","g1","Indigo","ZXC","1. Practice good manufacturing process in cleaning validation\n2. Created python code for documentation management\n3. Push the digitization process in maufacturing field"]],f)
+f=A.c([],f)
 s=t.s
 r=A.c([],s)
 q=A.c([],s)
@@ -33803,7 +33803,7 @@ g=$.qs()
 g=g.gaq(g)
 g=i.h(0,h[B.k3.K3(A.aI(g,!0,A.E(g).j("m.E")).length)])
 g.toString
-return new A.NL(a0,a1,a,r,q,p,o,n,m,l,k,j,s,g,A.and(null),B.k)}}
+return new A.NL(e,d,f,r,q,p,o,n,m,l,k,j,s,g,A.and(null),B.k)}}
 A.NL.prototype={
 ti(a){var s=0,r=A.al(t.z),q=this,p
 var $async$ti=A.ah(function(b,c){if(b===1)return A.ai(c,r)
@@ -33853,8 +33853,7 @@ b0=new A.bM(25,25)
 b1=$.qs().h(0,k[e])
 b1.toString
 b2=new A.cy(b1,5,B.W)
-b1=g[e]
-b1="A"+b1+"B+"+(b1==="phar")
+b1="MSE Co-op Honor:"+b6.a.c
 b3=b6.fy
 b4=A.Z(102,0,0,0)
 b1=A.bG(b1,b7,b7,b7,new A.r(!0,b4,b7,"s2",b7,b7,b3/25,B.a1,b7,b7,b7,b7,b7,b7,b7,b7,b7,b7,b7,b7,b7,b7,b7,b7,b7),b7,b7)
