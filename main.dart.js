@@ -33857,7 +33857,7 @@ b2="Co-op Hall of Fame: "+b8.a.c
 b4=b8.fy
 b5=A.Z(102,0,0,0)
 b2=A.c([A.bB(b2,b9,b9,b9,new A.r(!0,b5,b9,"s2",b9,b9,b4/25,B.Z,b9,b9,b9,b9,b9,b9,b9,b9,b9,b9,b9,b9,b9,b9,b9,b9,b9),b9,b9)],c1)
-for(b6=0;b6<1;++b6)b2.push(A.bB(String(k[0][b6]===c0[d][b6]),b9,b9,b9,b9,b9,b9))
+for(b6=0;b6<14;++b6)b2.push(A.bB(String(k[0][b6]===c0[d][b6]),b9,b9,b9,b9,b9,b9))
 b4="Joined @"+A.d(J.b2(c0[d][0]))
 b5=b8.fy
 b7=A.Z(102,0,0,0)
