@@ -33783,8 +33783,8 @@ F(a,b){var s=null,r=A.adv(B.bG,this.e/3.7*1.81,new A.ht("ast/frame.png"),this.d/
 q.toString
 return A.bo(s,r,B.o,s,s,new A.bY(s,A.lh(s,B.jO,new A.iU(q),0.8),s,s,s,s,B.N),s,s,s,s,s,s,s)}}
 A.mZ.prototype={
-aj(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f="lyuz11@mcmaster.ca",e="Manufacutirng+Pharmeutical",d="https://github.com/RayLyu-Mac/Matls_Coop_HallofFame/blob/main/ast/profile/r.jpg?raw=true",c="1. Practice good manufacturing process in cleaning validation\n2. Created python code for documentation management\n3. Push the digitization process in maufacturing field",b=t.X6,a=A.c([],b),a0=A.c([["11/21/2021","Ray Lyu","Email",f,"Apotex","3rd","12 month",e,d,"Phar","g1","Indigo","ZXC",c]],b)
-b=A.c([["11/21/2021","Ray Lyu","Email",f,"Apotex","3rd","12 month",e,d,"Phar","g1","Indigo","ZXC",c]],b)
+aj(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f="Manufacutirng+Pharmeutical",e="https://github.com/RayLyu-Mac/Matls_Coop_HallofFame/blob/main/ast/profile/r.jpg?raw=true",d="1. Practice good manufacturing process in cleaning validation\n2. Created python code for documentation management\n3. Push the digitization process in maufacturing field",c=t.X6,b=A.c([],c),a=A.c([["11/21/2021","Ray Lyu","Email","lyuz11@mcmaster.ca","Apotex","3rd","12 month",f,e,"Phar","g1","Indigo","ZXC",d]],c)
+c=A.c([["11/21/2021","Ray Lyu","Email+person+LinkedIn+Facebook","jeremywilsonudd@gmail.com+person+https://www.linkedin.com/in/jeremy-w-711002134/+https://www.facebook.com/jeremywilsonudd","Apotex","3rd","12 month",f,e,"Phar","g1","Indigo","ZXC",d]],c)
 s=t.s
 r=A.c([],s)
 q=A.c([],s)
@@ -33803,7 +33803,7 @@ g=$.qs()
 g=g.gaq(g)
 g=i.h(0,h[B.k3.K3(A.aI(g,!0,A.E(g).j("m.E")).length)])
 g.toString
-return new A.NL(a,a0,b,r,q,p,o,n,m,l,k,j,s,g,A.and(null),B.k)}}
+return new A.NL(b,a,c,r,q,p,o,n,m,l,k,j,s,g,A.and(null),B.k)}}
 A.NL.prototype={
 ti(a){var s=0,r=A.al(t.z),q=this,p
 var $async$ti=A.ah(function(b,c){if(b===1)return A.ai(c,r)
