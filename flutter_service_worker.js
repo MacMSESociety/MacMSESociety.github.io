@@ -2,7 +2,7 @@
 const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
-const RESOURCES = {
+var RESOURCES = {
   "assets/AssetManifest.json": "4494f4a57142409e74241542477a606b",
 "assets/ast/1.png": "890fc841adf527110f59d6def36ea5a1",
 "assets/ast/10.png": "6390365ee8d83a0888beab33ae5521ae",
