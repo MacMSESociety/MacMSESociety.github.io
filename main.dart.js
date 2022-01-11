@@ -33782,7 +33782,7 @@ q.toString
 return A.bo(s,r,B.o,s,s,new A.bY(s,A.nt(s,B.jO,new A.iV(q),0.8),s,s,s,s,B.N),s,s,s,s,s,s,s)}}
 A.mX.prototype={
 aj(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=t.X6,e=A.c([],f)
-f=A.c([],f)
+f=A.c([["11/21/2021","Ray Lyu","Email","lyuz11@mcmaster.ca","Apotex","3rd","12 month","Manufacutirng+Pharmeutical","https://github.com/RayLyu-Mac/Matls_Coop_HallofFame/blob/main/ast/profile/r.jpg?raw=true","Phar","g1","Indigo","ZXC","qqq"]],f)
 s=t.s
 r=A.c([],s)
 q=A.c([],s)
