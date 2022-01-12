@@ -59,7 +59,7 @@ var RESOURCES = {
 "assets/ast/me.png": "d048bbd54ef83c83d1ea6ed85ff671e1",
 "assets/ast/p1.jpg": "0d5b27ad889aa53770f95e5231e443bd",
 "assets/ast/rd.jpg": "07a0728650c088709d67d95410e12d5f",
-"assets/ast/res.jpg": "a8d9d481fae0a12ba85bca481f994d91",
+"assets/ast/res.jpg": "a8d9d581fae0a12ba85bca481f994d91",
 "assets/ast/s1.png": "f83aae8bca72d9f0eaf6b722b208f7e4",
 "assets/ast/u1.jpg": "83579338768d1f3cfc4352e61ac01e29",
 "assets/FontManifest.json": "18ae4fd95bb944772b6c32ea2be28869",
