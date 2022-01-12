@@ -26,11 +26,19 @@ var RESOURCES = {
 "assets/ast/bg/s1.png": "d82875ff3fd86b5411751d59cc0e59cb",
 "assets/ast/bg/s2.png": "28bce9793d0252b4a5537942af289b3b",
 "assets/ast/bu1.png": "0e07eab33dca9e984dcb88b40cebb212",
+<<<<<<< Updated upstream
 "assets/ast/csv/bio.csv": "651b280bbe3393052ee2aa426b622a9e",
 "assets/ast/csv/code.csv": "1ab98ed5200f960d99b901be2c4ee476",
 "assets/ast/csv/manu.csv": "9a07e3f8b14535253323f20305770280",
 "assets/ast/csv/res.csv": "53db217d3062396c9fe8cdad4ce127b7",
 "assets/ast/csv/smart.csv": "f2ffdb4c7d4d99501151d6c6dbfd0a6c",
+=======
+"assets/ast/csv/bio.csv": "651b280bbe3393052ee2aa426b622a8e",
+"assets/ast/csv/code.csv": "1ab98ed5200f960d99b901be2c4ee416",
+"assets/ast/csv/manu.csv": "3a9874787d97bf4a1785bed67c2c7556",
+"assets/ast/csv/res.csv": "53db217d3062396c9fe8cdad4ce127b3",
+"assets/ast/csv/smart.csv": "f588bfc17abf72613e6e002ca565617d",
+>>>>>>> Stashed changes
 "assets/ast/d1.jpg": "9251000c1e1a1eaf2d1a9294f794d4a7",
 "assets/ast/d1.png": "5e1fe682d7402c3252f91609997745a0",
 "assets/ast/d2.png": "569bdb70190d1f241ba8c7a4eeab04c1",
@@ -74,9 +82,9 @@ var RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "dc411d3451cfedc05524f5a1546aee58",
-"/": "dc411d3451cfedc05524f5a1546aee58",
-"main.dart.js": "4b5894c01da4734fb113174eb191ea7d",
+"index.html": "e549c65a21220619d9a69bd23a4596c3",
+"/": "e549c65a21220619d9a69bd23a4596c3",
+"main.dart.js": "03ee3f8dcf639ad9c8bba7e8d726ffe5",
 "manifest.json": "411f3a19b5b75b69d104fe680c37c26c",
 "version.json": "02bbd8a7087147d4ad4f4421298c52ec"
 };
