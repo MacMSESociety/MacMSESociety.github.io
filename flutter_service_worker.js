@@ -29,7 +29,7 @@ var RESOURCES = {
 "assets/ast/csv/bio.csv": "651b280bbe3393052ee2aa426b612a8e",
 "assets/ast/csv/code.csv": "1ab98ed5200f960d99b901be2c5ee116",
 "assets/ast/csv/manu.csv": "3a9874787d97bf4a1785bed67c7c7756",
-"assets/ast/csv/res.csv": "53db217d3062396c9fe8cdad4ce22143",
+"assets/ast/csv/res.csv": "64db217d3062396c9fe8cdad4ce22143",
 "assets/ast/csv/smart.csv": "f588bfc17abf72613e6e002ca665517d",
 "assets/ast/d1.jpg": "9251000c1e1a1eaf2d1a9294f794d4a7",
 "assets/ast/d1.png": "5e1fe682d7402c3252f91609997745a0",
