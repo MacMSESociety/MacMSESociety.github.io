@@ -2,7 +2,7 @@
 const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
-const RESOURCES = {
+var RESOURCES = {
   "assets/AssetManifest.json": "fed45e5e625d567c364991f79fa9e847",
 "assets/ast/1.png": "890fc841adf527110f59d6def36ea5a1",
 "assets/ast/10.png": "6390365ee8d83a0888beab33ae5521ae",
@@ -26,11 +26,11 @@ const RESOURCES = {
 "assets/ast/bg/steelm1.png": "d82875ff3fd86b5411751d59cc0e59cb",
 "assets/ast/bg/steelm2.png": "28bce9793d0252b4a5537942af289b3b",
 "assets/ast/bu1.png": "0e07eab33dca9e984dcb88b40cebb212",
-"assets/ast/csv/bio.csv": "493497e214f1fb018d9bdde9939f5118",
-"assets/ast/csv/code.csv": "960a4b53e6379380c1cbe0072cd93d65",
-"assets/ast/csv/manu.csv": "90fc4e4fad795e84704a91a7f55b4897",
-"assets/ast/csv/res.csv": "d9a565e5484799eba346d779a5271ece",
-"assets/ast/csv/smart.csv": "9b0e64a4d7d1f9e7661ee9c5aa8164fd",
+"assets/ast/csv/bio.csv": "493497e314f1fb018d9bdde9939f5118",
+"assets/ast/csv/code.csv": "960a4b53e6379380c2cbe0072cd93d65",
+"assets/ast/csv/manu.csv": "90fc4e4fad795e84734a91a7f55b4897",
+"assets/ast/csv/res.csv": "d9a565e5483799eba346d779a5271ece",
+"assets/ast/csv/smart.csv": "9b0e64a1d7d1f9e7661ee9c5aa8164fd",
 "assets/ast/d1.jpg": "9251000c1e1a1eaf2d1a9294f794d4a7",
 "assets/ast/d1.png": "5e1fe682d7402c3252f91609997745a0",
 "assets/ast/d2.png": "569bdb70190d1f241ba8c7a4eeab04c1",
